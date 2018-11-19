@@ -1,0 +1,32 @@
+.jumbotron {
+    background-image: url('./1.jpeg');
+    font-family: 'Acme', sans-serif;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    color:white;
+    }
+    
+    .img-responsive{
+     width:30%;
+     height:40%;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+.navbar{
+    display:flex;
+    justify
+}
+
+.cards{
+    display:flex;
+    flex-direction:row;
+    width:100%;
+    justify-content:space-between;
+}
+
+.img-fluid{
+    height:auto;
+}
